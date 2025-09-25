@@ -1,13 +1,7 @@
 # M201-RAT
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue.svg">
-  <img src="https://img.shields.io/badge/License-MIT-green.svg">
-  <img src="https://img.shields.io/badge/Category-Offensive%20Security-red.svg">
-</p>
-
-<p align="center">
-  <img src="https://github.com/CrypterENC/M101_Botnet/blob/main/SSH-Botnets/rsrc/pic.png" alt="Reverse Shell Demo" style="width: 400px; height: 200px; object-fit: cover; object-position: center;">
+  <img src="https://github.com/CrypterENC/M201-RAT/blob/main/rsrc/thumbnail.png" alt="Reverse Shell Demo" style="width: 400px; height: 250px; object-fit: cover; object-position: center;">
 </p>
 
 ```
@@ -21,6 +15,14 @@
 ░  ░  ░    ░      ░ ░ ░ ▒  ░ ░ ░ ▒    ░ ░     ░ ░   
       ░               ░ ░      ░ ░      ░  ░    ░  ░
 ```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.x-blue.svg">
+  <img src="https://img.shields.io/badge/License-MIT-green.svg">
+  <img src="https://img.shields.io/badge/Category-Offensive%20Security-red.svg">
+</p>
+
+
 
 **Advanced Remote Access Tool (RAT) with Multi-Client Botnet Capabilities**
 
